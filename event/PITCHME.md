@@ -23,12 +23,8 @@
 @title[usage instructions]
 #Impact Hub usage instructions
 
-@ul
-
-- No sweet drinks, no krümel in working area
+- No sweet drinks, no crumbs in working area
 - shower & toilet
-- ?
-@ulend
 
 ---
 @title[Jury]
