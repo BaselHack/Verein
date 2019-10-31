@@ -13,12 +13,12 @@
 @title[Sunday]
 #Agenda
 
+---?image=https://basel.impacthub.net/wp-content/uploads/2017/10/logo-main.svg
+@title[ImpactHub]
+#Agenda
+
 ---?image=https://upload.wikimedia.org/wikipedia/commons/d/df/Sustainable_Development_Goals.png
 @title[Sustainability]
-@snap[east span-50]
-![IMAGE](https://basel.impacthub.net/wp-content/uploads/2017/10/logo-main.svg)
-@snapend
-
 
 ---
 @title[usage instructions]
