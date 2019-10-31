@@ -1,5 +1,2 @@
----?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob.svg
+---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob_slogan.svg
 
-# BaselHack
-
-we connect people, take fun seriously and grow open inoovation
