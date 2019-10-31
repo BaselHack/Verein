@@ -1,4 +1,4 @@
----?image=assets/img/logo_wob.svg
+---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob.svg
 
 # BaselHack
 
