@@ -13,10 +13,9 @@
 @title[Sunday]
 #Agenda
 
----?image=https://en.wikipedia.org/wiki/Sustainable_Development_Goals#/media/File:Sustainable_Development_Goals.png
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/df/Sustainable_Development_Goals.png
 @title[Sustainability]
 @snap[east span-50]
-### Architecture Diagram
 ![IMAGE](https://basel.impacthub.net/wp-content/uploads/2017/10/logo-main.svg)
 @snapend
 
