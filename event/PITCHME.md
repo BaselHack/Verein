@@ -15,7 +15,6 @@
 
 ---?image=https://basel.impacthub.net/wp-content/uploads/2017/10/logo-main.svg
 @title[ImpactHub]
-#Agenda
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/d/df/Sustainable_Development_Goals.png
 @title[Sustainability]
