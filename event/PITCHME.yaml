@@ -1,3 +1,6 @@
-background-color : black
 theme-background : [ "black" ]
+theme-headline   : [ "Raleway", "white", "none" ]
+theme-byline     : [ "Raleway", "#eeeeee", "none" ]
+theme-text       : [ "Ubuntu", "#eCeCeC", "none" ]
+theme-links      : [ "#ffff00", "#00ffff" ]
 title : "BaselHack"
