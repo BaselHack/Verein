@@ -1,3 +1,3 @@
----?image=assets/img/logo white on black A8 landscape.svg
+---?image=assets/img/logo_wob.svg
 
 # BaselHack
