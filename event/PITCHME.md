@@ -26,10 +26,9 @@ Agenda
 - No sweet drinks, no crumbs in working area
 - shower & toilet
 
----
+---?image=https://baselhack.github.io/Verein/event/assets/img/jury.png
 @title[Jury]
-## Jury
-## judging
+
 
 ---
 @title[Rules]
