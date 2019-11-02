@@ -1,7 +1,7 @@
 ---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob_slogan.svg
 @title[logo]
 
----
+---?image=https://baselhack.github.io/Verein/event/assets/img/Poster_Logo_Sponsors 2019_landscape.svg
 @title[Sponsors]
 sponsors
 
