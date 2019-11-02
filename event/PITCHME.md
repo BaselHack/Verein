@@ -3,9 +3,8 @@
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/Poster_Logo_Sponsors_2019_landscape.svg
 @title[Sponsors]
-sponsors
 
----?image=https://baselhack.github.io/Verein/event/assets/img/agenda_saturday_wob.svg
+---?image=/event/assets/img/agenda_saturday_wob.svg
 @title[Saturday]
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/agenda_sunday_wob.svg
