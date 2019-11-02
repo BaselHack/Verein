@@ -1,17 +1,15 @@
 ---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob_slogan.svg
 @title[logo]
 
----?image=https://baselhack.github.io/Verein/event/assets/img/Poster_Logo_Sponsors 2019_landscape.svg
+---?image=https://baselhack.github.io/Verein/event/assets/img/Poster_Logo_Sponsors_2019_landscape.svg
 @title[Sponsors]
 sponsors
 
----
+---?image=https://baselhack.github.io/Verein/event/assets/img/agenda_saturday_wob.svg
 @title[Saturday]
-Agenda
 
----
+---?image=https://baselhack.github.io/Verein/event/assets/img/agenda_sunday_wob.svg
 @title[Sunday]
-Agenda
 
 ---?image=https://basel.impacthub.net/wp-content/uploads/2017/10/logo-main.svg
 @title[ImpactHub]
