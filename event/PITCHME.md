@@ -39,7 +39,7 @@
 ### Copyright
 * all artifacts are published on [github](https://github.com/BaselHack/) - please [choose a license](https://github.com/blog/1530-choosing-an-open-source-license)
 
----?image=https://baselhack.github.io/Verein/event/assets/img/agenda_sunday_wob.svg
+---?image=https://baselhack.github.io/Verein/event/assets/img/pitching_mic_wob.svg
 @title[Let's go]
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob_slogan.svg
