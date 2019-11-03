@@ -22,7 +22,6 @@ Was the presentation clear, cool, inspiring and in the entire spirit of BaselHac
 @title[Voting Audience]
 ... Menti.com
 
----
 **One Jury vote is the audience** 
 
 Please go to menti.com 
