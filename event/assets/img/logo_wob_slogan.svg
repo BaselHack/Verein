@@ -14,7 +14,7 @@
    viewBox="0 0 7.3999995 5.2"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="logo_wob_slogan.svg">
   <defs
      id="defs2" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="185.76917"
+     inkscape:cx="117.5904"
      inkscape:cy="120.52567"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
@@ -36,10 +36,10 @@
      borderlayer="false"
      showborder="true"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1718"
-     inkscape:window-height="1368"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
+     inkscape:window-width="1226"
+     inkscape:window-height="656"
+     inkscape:window-x="54"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:pagecheckerboard="true" />
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,6 +87,6 @@
          x="0.48219475"
          y="289.19788"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.17638889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.02645833"
-         id="tspan823">we connect people, take fun seriously and grow open inoovation</tspan></text>
+         id="tspan823">we connect people, take fun seriously and grow open innovation</tspan></text>
   </g>
 </svg>
