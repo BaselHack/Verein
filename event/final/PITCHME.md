@@ -13,6 +13,12 @@
 
 **4 Wow effect** Was the presentation clear, cool, inspiring and in the entire spirit of BaselHack?
 
+@title[Voting Audience]
+... Menti.com
+
+---
+**1 Jury vote is the audience** 
+Please go to menti.com and enter 843284
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/jury.png
 @title[Jury]
