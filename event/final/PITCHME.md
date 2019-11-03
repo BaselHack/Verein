@@ -3,8 +3,6 @@
 
 ---
 @title[Voting]
-... criteria
-
 **1 Significance** of the problem addressed, the market potential and what is the value added by the team? Does it solve a real problem? Does it have an impact?
 
 **2 Originality**: How innovative is the proposed solution? Is it a new and creative solution? Do you feel the solution has developed as a team effort from the initial pitch?
