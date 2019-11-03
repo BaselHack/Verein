@@ -17,7 +17,7 @@
 ... Menti.com
 
 ---
-**1 Jury vote is the audience** 
+**One Jury vote is the audience** 
 
 Please go to menti.com 
 
