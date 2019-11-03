@@ -31,11 +31,20 @@ and enter 843284
 ---?image=https://baselhack.github.io/Verein/event/assets/img/jury.png
 @title[Jury]
 
+---?image=https://baselhack.github.io/Verein/event/assets/img/award.svg
+@title[Awards]
+
 ---?image=https://baselhack.github.io/Verein/event/assets/img/pitching_mic_wob.svg
 @title[Let's go]
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/Poster_Logo_Sponsors_2019_landscape.svg
-@title[Sponsors]
+@title[Sponsors]#
+
+---?image=https://baselhack.github.io/Verein/event/assets/img/we2.svg
+@title[BaselHack Team]
+
+---?image=https://baselhack.github.io/Verein/event/assets/img/award.svg
+@title[Award ceremory]
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/logo_wob_slogan.svg
 @title[logo]
