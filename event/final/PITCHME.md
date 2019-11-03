@@ -17,6 +17,8 @@ and Feasibility of the proposed solution (technical, societal, ...)? Is it reali
 #### 4 Wow effect
 Was the presentation clear, cool, inspiring and in the entire spirit of BaselHack?
 
+---
+
 @title[Voting Audience]
 ... Menti.com
 
