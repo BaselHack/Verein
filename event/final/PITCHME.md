@@ -9,6 +9,8 @@ of the problem addressed, the market potential and what is the value added by th
 #### 2 Originality
 How innovative is the proposed solution? Is it a new and creative solution? Do you feel the solution has developed as a team effort from the initial pitch?
 
+---
+
 #### 3 Viability
 and Feasibility of the proposed solution (technical, societal, ...)? Is it realistic to build a product based on the prototype? 
 
