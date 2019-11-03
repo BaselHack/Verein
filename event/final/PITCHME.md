@@ -18,7 +18,10 @@
 
 ---
 **1 Jury vote is the audience** 
-Please go to menti.com and enter 843284
+
+Please go to menti.com 
+
+and enter 843284
 
 ---?image=https://baselhack.github.io/Verein/event/assets/img/jury.png
 @title[Jury]
